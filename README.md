@@ -103,6 +103,7 @@
 | ms15_034_scan.py    | ms15_034批量扫描脚本 |
 | weblogic_exp-all.jar  | weblogic漏洞验证及利用工具 |
 | 弱口令检查工具.zip  | 弱口令扫描器，支持多种服务，支持导入字典 |
+| struts-scan.zip    | struct2漏洞扫描器 |
 | EVCapture_3.9.7.ex  | 一个好用的录屏软件 |
 
 ## 相关资源列表
