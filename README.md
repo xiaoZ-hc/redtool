@@ -95,16 +95,18 @@
 ## 文件说明
 
 |  文件名   | 说明  |
-|  :----:  | :----:  |
-| cve-2017-10271.py   | 漏洞poc |
+|  :----:  | :----: |
+| cve-2017-10271.py  | 漏洞poc |
 | cve-2020-0796-scanner.zip  | 漏洞扫描器 |
-| Tongda_oa_rce.zip |   通达OA越权登录&shell上传  |
-| HTTP代码爬取.zip   |  http代理池中爬取可用代理 |
+| Tongda_oa_rce.zip | 通达OA越权登录&shell上传  |
+| HTTP代码爬取.zip  | http代理池中爬取可用代理 |
 | Layer子域名挖掘机.zip  | 子域名挖掘机 |
-| ms15_034_scan.py    | ms15_034批量扫描脚本 |
+| ms15_034_scan.py  | ms15_034批量扫描脚本 |
 | weblogic_exp-all.jar  | weblogic漏洞验证及利用工具 |
+| shirocheck.jar  | Shiro反序列化回显利用检查 Burp插件 |
+| shiro-check-src.zip  | Shiro反序列化回显利用检查 Burp插件 源码 |
 | 弱口令检查工具.zip  | 弱口令扫描器，支持多种服务，支持导入字典 |
-| struts-scan.zip    | struct2漏洞扫描器 |
+| struts-scan.zip  | struct2漏洞扫描器 |
 | EVCapture_3.9.7.ex  | 一个好用的录屏软件 |
 
 ## 相关资源列表
