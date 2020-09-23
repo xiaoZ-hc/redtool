@@ -108,6 +108,7 @@
 | 弱口令检查工具.zip  | 弱口令扫描器，支持多种服务，支持导入字典 |
 | struts-scan.zip  | struct2漏洞扫描器 |
 | EVCapture_3.9.7.ex  | 一个好用的录屏软件 |
+| 白鹿社工字典生成器 | 通过添加社工信息生成字典 |
 
 ## 相关资源列表
 - https://mitre-attack.github.io/    mitre科技机构对攻击技术的总结wiki
