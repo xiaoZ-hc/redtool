@@ -96,8 +96,7 @@
 
 |  文件名   | 说明  |
 |  :----:  | :----: |
-| cve-2017-10271.py  | 漏洞poc |
-| cve-2020-0796-scanner.zip  | 漏洞扫描器 |
+| CVE_EXP  | 漏洞攻击EXP |
 | Tongda_oa_rce.zip | 通达OA越权登录&shell上传  |
 | HTTP代码爬取.zip  | http代理池中爬取可用代理 |
 | Layer子域名挖掘机.zip  | 子域名挖掘机 |
