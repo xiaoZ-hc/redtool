@@ -1426,7 +1426,7 @@
 - https://github.com/sym233/core-values-encoder    js,社会主义核心价值观加密，https://sym233.github.io/core-values-encoder/
 - https://github.com/valentinxxx/nginxconfig.io/    在线nginx配置文件生成，demo网址https://nginxconfig.io
 - https://github.com/asciimoo/searx    搭建一个自己的搜索引擎,DEMO网址https://searx.me/
-- http://sc.ftqq.com/3.version    server酱微信通知
+- http://sct.ftqq.com    server酱微信通知
 - https://osint.link    Open Source Intelligence (OSINT) Tools & Resources
 - https://www.wolframalpha.com    根据问题直接给出答案的网站
 - shodan.io    互联网感知引擎
